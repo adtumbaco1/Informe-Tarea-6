@@ -9,22 +9,22 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/INTRODUCCI%C3%93N%20A%20LA%20CORRIENTE%20Y%20AL%20VOLTAJE%20ALTERNOS.png)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/CAPACITORES.png)<br /><br />
 3. Problemas (IMPARES)<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
-![alt text]()<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.1.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.2.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.3.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.4.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.5.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.6.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.7.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.8.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.9.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.10.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.11.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.12.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.13.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.14.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.15.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.16.PNG)<br />
 ![alt text]()<br />
 ![alt text]()<br />
 ![alt text]()<br />
